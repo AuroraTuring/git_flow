@@ -1,4 +1,4 @@
 Line one, changed.
-Line two
+Line two, modified!
 Line three
 Hello, world! 
