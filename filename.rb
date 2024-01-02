@@ -1,4 +1,4 @@
 Line one from partner B
-Line two
+Line two Dana's changes.
 Line three
 Hello, world! 
